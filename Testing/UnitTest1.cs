@@ -14,5 +14,12 @@ public class UnitTest1
             new int[]{-5, 1, 2, 2, 5, 5, 8, 10}));
     }
 
-   
+    [Fact]
+    public void Test2()
+    {
+        System.Diagnostics.Debug.Assert(Enumerable.SequenceEqual(
+            Lab2.SortViaMergeSort(new int[]{6, 1, -5, 3, 5, 3, 7}),
+            new int[]{-5, 1, 3, 3, 5, 6, 7}));
+
+    }
 }
