@@ -1,0 +1,7 @@
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 2 Merge Sort\lab-2-merge-sort-Jazzypanda1234\Testing\bin\Debug\net8.0\CoverletSourceRootsMapping_Testing
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 2 Merge Sort\lab-2-merge-sort-Jazzypanda1234\Testing\obj\Debug\net8.0\Testing.csproj.AssemblyReference.cache
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 2 Merge Sort\lab-2-merge-sort-Jazzypanda1234\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 2 Merge Sort\lab-2-merge-sort-Jazzypanda1234\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 2 Merge Sort\lab-2-merge-sort-Jazzypanda1234\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 2 Merge Sort\lab-2-merge-sort-Jazzypanda1234\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 2 Merge Sort\lab-2-merge-sort-Jazzypanda1234\Testing\obj\Debug\net8.0\Testing.sourcelink.json
